@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<templates>
+  <t t-name="QRSystray">
+      <div class="new_icon">
+             <div class="icon_div">
+                 <div class="toggle-icon" role="button">
+                     <i id='create_qr' class="fa fa-qrcode"/>
+                 </div>
+             </div>
+      </div>
+  </t>
+</templates>
